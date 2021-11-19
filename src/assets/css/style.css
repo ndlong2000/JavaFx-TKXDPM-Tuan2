@@ -1,0 +1,8 @@
+.anchor-pane {
+	-fx-background-image: url("../images/before_bonk.PNG");
+}
+
+.test-btn {
+	-fx-background-color: green;
+	-fx-text-fill: #fff;
+}
